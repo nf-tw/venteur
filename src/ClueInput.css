@@ -1,0 +1,16 @@
+.submit-btn {
+    background-color: #1976d2;
+    color: #ffffff;
+    border-color: #1976d2;
+    border-radius: 5px;
+    margin: 0 20px;
+    cursor: pointer;
+}
+
+div {
+    margin: 10px;
+}
+
+.clue-input-instructions {
+    font-size: 12px;
+}

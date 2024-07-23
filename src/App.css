@@ -1,0 +1,10 @@
+.wordle-solver-app {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin: 50px 10px;
+    font-size: 16px;
+  }
+  
+  .error {
+    color: red;
+  }
